@@ -1,0 +1,10 @@
+{
+  "Id": "Lace_Transport",
+  "DisplayName": "Lace Transport",
+  "Version": "1.0.0",
+  "Author": "MisfitMaid",
+  "ManagerVersion": "0.27.3",
+  "Requirements": [
+    "SkinManagerMod"
+  ]
+}

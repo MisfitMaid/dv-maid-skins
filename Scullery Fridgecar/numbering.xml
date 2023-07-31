@@ -16,6 +16,7 @@
     </Fonts>
     
     <AttachPoints>
+        <NumAttachPoint FontIdx="0" X="128" Y="1195"/>
         <NumAttachPoint FontIdx="0" X="116" Y="1374"/>
         <NumAttachPoint FontIdx="0" X="116" Y="1754"/>
     </AttachPoints>

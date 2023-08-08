@@ -1,0 +1,20 @@
+<NumberConfig TargetTexture="CarAutorackGreen_01d" BlendMode="Normal" MinNumber="0" MaxNumber="9999" Offset="0">
+    <Fonts>
+        <NumberFont Height="45"
+                    CharX=    " 15, 51, 87,123,159,195,231,267,303,339"
+                    CharY=    " 45, 45, 45, 45, 45, 45, 45, 45, 45, 45"
+                    CharWidth=" 36, 36, 36, 36, 36, 36, 36, 36, 36, 36"/>
+                    <!--         0,  1,  2,  3,  4,  5,  6,  7,  8,  9-->
+        
+        <NumberFont Height="45" Orientation="Vertical" Kerning="-72"
+                    CharX=    " 15, 15, 15, 15, 15, 15, 15, 15, 15, 15"
+                    CharY=    " 81,117,153,189,225,261,297,333,371,405"
+                    CharWidth=" 36, 36, 36, 36, 36, 36, 36, 36, 36, 36"/>
+                    <!--         0,  1,  2,  3,  4,  5,  6,  7,  8,  9-->
+    </Fonts>
+    
+    <AttachPoints>
+        <NumAttachPoint FontIdx="0" X="169" Y="702"/>
+        <NumAttachPoint FontIdx="1" X="1440" Y="1720"/>
+    </AttachPoints>
+</NumberConfig>

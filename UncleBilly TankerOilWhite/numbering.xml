@@ -1,4 +1,4 @@
-<NumberConfig TargetTexture="CarTankYellow_01d" BlendMode="Normal" MinNumber="0" MaxNumber="9999" Offset="0">
+<NumberConfig TargetTexture="CarTankWhite_01d" BlendMode="Normal" MinNumber="0" MaxNumber="9999" Offset="0">
     <Fonts>
         <!-- Cab side numbers -->
         <NumberFont Height="45"

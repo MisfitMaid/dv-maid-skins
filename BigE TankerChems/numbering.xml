@@ -1,0 +1,21 @@
+<NumberConfig TargetTexture="CarTankBlack_01d" BlendMode="Normal" MinNumber="0" MaxNumber="9999" Offset="0">
+    <Fonts>
+        <!-- Cab side numbers -->
+        <NumberFont Height="45"
+                    CharX=    " 15, 51, 87,123,159,195,231,267,303,339"
+                    CharY=    " 45, 45, 45, 45, 45, 45, 45, 45, 45, 45"
+                    CharWidth=" 36, 36, 36, 36, 36, 36, 36, 36, 36, 36"/>
+                    <!--         0,  1,  2,  3,  4,  5,  6,  7,  8,  9-->
+        
+		<!-- Number boards -->
+        <NumberFont Height="15" Orientation="Vertical" Emission="0.8,0.75,0.7"
+                    CharX=    "  0,  0,  0,  0,  0,  0,  0,  0,  0,  0"
+                    CharY=    "119,107, 95, 83, 71, 59, 47, 35, 23, 11"
+                    CharWidth=" 12, 12, 12, 12, 12, 12, 12, 12, 12, 12"/>
+                    <!--         0,  1,  2,  3,  4,  5,  6,  7,  8,  9-->
+    </Fonts>
+    
+    <AttachPoints>
+        <NumAttachPoint FontIdx="0" X="250" Y="1660"/>
+    </AttachPoints>
+</NumberConfig>

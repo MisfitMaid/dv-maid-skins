@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<NumberConfig TargetTexture="CarHopperYellow_d" BlendMode="Normal" MinNumber="100" MaxNumber="9999" Offset="0" ForceRandom="false">
+  <Fonts>
+    <NumberFont ReverseDigits="false" Orientation="Horizontal" Height="144" CharX="0, 81, 162, 243, 324, 405, 0, 81, 162, 243" CharY="144, 144, 144, 144, 144, 144, 290, 290, 290, 290" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="true" Orientation="Horizontal" Height="144" CharX="0, 81, 162, 243, 324, 405, 0, 81, 162, 243" CharY="144, 144, 144, 144, 144, 144, 290, 290, 290, 290" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="false" Orientation="Vertical" Height="144" CharX="880, 880, 880, 880, 880, 880, 734, 734, 734, 734" CharY="79, 160, 241, 322, 403, 484, 79, 160, 241, 322" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="true" Orientation="Vertical" Height="144" CharX="880, 880, 880, 880, 880, 880, 734, 734, 734, 734" CharY="79, 160, 241, 322, 403, 484, 79, 160, 241, 322" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="false" Orientation="Horizontal" Height="144" CharX="945, 864, 783, 702, 621, 540, 945, 864, 783, 702" CharY="1024, 1024, 1024, 1024, 1024, 1024, 878, 878, 878, 878" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="true" Orientation="Horizontal" Height="144" CharX="945, 864, 783, 702, 621, 540, 945, 864, 783, 702" CharY="1024, 1024, 1024, 1024, 1024, 1024, 878, 878, 878, 878" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="false" Orientation="Vertical" Height="144" CharX="0, 0, 0, 0, 0, 0, 146, 146, 146, 146" CharY="1024, 943, 862, 781, 700, 619, 1024, 943, 862, 781" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+    <NumberFont ReverseDigits="true" Orientation="Vertical" Height="144" CharX="0, 0, 0, 0, 0, 0, 146, 146, 146, 146" CharY="1024, 943, 862, 781, 700, 619, 1024, 943, 862, 781" CharWidth="79, 79, 79, 79, 79, 79, 79, 79, 79, 79"/>
+  </Fonts>
+  <AttachPoints>
+    <!--
+font indexes:
+0: upright, LTR
+1: upright, RTL
+2: clockwise, LTR
+3: clockwise, RTL
+4: upside-down, LTR
+5: upside-down, RTL
+6: counterclockwise, LTR
+7: counterclockwise, RTL
+-->
+    <NumAttachPoint FontIdx="3" X="1360" Y="1265"/>
+  </AttachPoints>
+</NumberConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<NumberConfig TargetTexture="CarGondolaGrey_d" BlendMode="Normal" MinNumber="100" MaxNumber="9999" Offset="0" ForceRandom="false">
+  <Fonts>
+    <NumberFont ReverseDigits="false" Orientation="Horizontal" Height="87" CharX="0, 49, 98, 147, 196, 245, 294, 343, 392, 441" CharY="87, 87, 87, 87, 87, 87, 87, 87, 87, 87" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="true" Orientation="Horizontal" Height="87" CharX="0, 49, 98, 147, 196, 245, 294, 343, 392, 441" CharY="87, 87, 87, 87, 87, 87, 87, 87, 87, 87" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="false" Orientation="Vertical" Height="87" CharX="937, 937, 937, 937, 937, 937, 937, 937, 937, 937" CharY="47, 96, 145, 194, 243, 292, 341, 390, 439, 488" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="true" Orientation="Vertical" Height="87" CharX="937, 937, 937, 937, 937, 937, 937, 937, 937, 937" CharY="47, 96, 145, 194, 243, 292, 341, 390, 439, 488" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="false" Orientation="Horizontal" Height="87" CharX="977, 928, 879, 830, 781, 732, 683, 634, 585, 536" CharY="1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="true" Orientation="Horizontal" Height="87" CharX="977, 928, 879, 830, 781, 732, 683, 634, 585, 536" CharY="1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024, 1024" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="false" Orientation="Vertical" Height="87" CharX="0, 0, 0, 0, 0, 0, 0, 0, 0, 0" CharY="1024, 975, 926, 877, 828, 779, 730, 681, 632, 583" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+    <NumberFont ReverseDigits="true" Orientation="Vertical" Height="87" CharX="0, 0, 0, 0, 0, 0, 0, 0, 0, 0" CharY="1024, 975, 926, 877, 828, 779, 730, 681, 632, 583" CharWidth="47, 47, 47, 47, 47, 47, 47, 47, 47, 47"/>
+  </Fonts>
+  <AttachPoints>
+    <!--
+font indexes:
+0: upright, LTR
+1: upright, RTL
+2: clockwise, LTR
+3: clockwise, RTL
+4: upside-down, LTR
+5: upside-down, RTL
+6: counterclockwise, LTR
+7: counterclockwise, RTL
+-->
+    <NumAttachPoint FontIdx="0" X="1346" Y="1530"/>
+    <NumAttachPoint FontIdx="0" X="1346" Y="1830"/>
+  </AttachPoints>
+</NumberConfig>

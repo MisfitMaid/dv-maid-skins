@@ -1,12 +1,12 @@
 {
     "Id": "dv-maid-skins-cars",
     "DisplayName": "Lace Transport Livery (Cars)",
-    "Version": "0.1",
+    "Version": "0.2.1",
     "Author": "MisfitMaid",
     "ManagerVersion": "0.27.3",
     "Requirements": [
         "SkinManagerMod"
     ],
     "HomePage": "https:\/\/github.com\/MisfitMaid\/dv-maid-skins",
-    "Repository": "https:\/\/github.com\/MisfitMaid\/dv-maid-skins\/blob\/mistress\/Cars\/repository.json"
+    "Repository": "https:\/\/raw.githubusercontent.com\/MisfitMaid\/dv-maid-skins\/mistress\/Cars\/repository.json"
 }

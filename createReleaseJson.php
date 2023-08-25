@@ -9,7 +9,7 @@ function getInfoJson(string $module, string $version): string {
 	$x["ManagerVersion"] = "0.27.3";
 	$x["Requirements"] = ["SkinManagerMod"];
 	$x["HomePage"] = "https://github.com/MisfitMaid/dv-maid-skins";
-	$x["Repository"] = sprintf("https://github.com/MisfitMaid/dv-maid-skins/blob/mistress/%s/repository.json", $module);
+	$x["Repository"] = sprintf("https://raw.githubusercontent.com/MisfitMaid/dv-maid-skins/mistress/%s/repository.json", $module);
 	return json_encode($x, JSON_PRETTY_PRINT);
 }
 

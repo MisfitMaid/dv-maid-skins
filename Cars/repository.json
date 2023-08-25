@@ -4,6 +4,16 @@
             "Id": "dv-maid-skins-cars",
             "Version": "0.1",
             "DownloadUrl": "https:\/\/github.com\/MisfitMaid\/dv-maid-skins\/releases\/download\/v0.1\/dv-maid-skins-cars.zip"
+        },
+        {
+            "Id": "dv-maid-skins-cars",
+            "Version": "0.2",
+            "DownloadUrl": "https:\/\/github.com\/MisfitMaid\/dv-maid-skins\/releases\/download\/v0.2\/dv-maid-skins-cars.zip"
+        },
+        {
+            "Id": "dv-maid-skins-cars",
+            "Version": "0.2.1",
+            "DownloadUrl": "https:\/\/github.com\/MisfitMaid\/dv-maid-skins\/releases\/download\/v0.2.1\/dv-maid-skins-cars.zip"
         }
     ]
 }
